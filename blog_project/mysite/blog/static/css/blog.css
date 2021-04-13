@@ -1,0 +1,37 @@
+.loader{
+  filter:hue-rotate(0deg);
+  color: linear-gradient(45deg,#0f8,#08f);
+  animation: 10000ms infinite linear,
+}
+
+.techfont{
+  font-family: 'Oswald', sans-serif;
+}
+.bigbrand{
+  font-size: 1.5em;
+}
+
+.centerstage{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.postdate{
+  text-align: center;
+
+}
+
+.posttitle{
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+
+.postcontent{
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+
+.btn-comment{
+  position: absolute;
+  right: 0px;
+}
